@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  text-decoration: 800;
+}
+.containerx {
+  text-align: center;
+  margin-top: 50px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 20px;
+  font-size: 30px;
+  height: 70px;
+  width: 350px;
+  scroll-behavior: smooth;
+}
+
+button {
+  font-size: 20px;
+  background: rgb(245, 18, 131);
+  width: 75px;
+  height: 55px;
+  margin: 6px;
+  color: #d9f0fd;
+}
+
+.mycalculator {
+  background-color: rgb(153, 11, 248);
+  padding: 22px;
+  border-radius: 22px;
+  display: inline-block;
+}
+#display {
+  background-color: rgb(240, 238, 212);
+}
